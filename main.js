@@ -18,7 +18,7 @@ document.body.appendChild(renderer.domElement);
 
 // Cargar la textura
 const textureLoader = new THREE.TextureLoader();
-const texture = textureLoader.load("../texture.jpg");
+const texture = textureLoader.load("../assets/texture.jpg");
 const geometry = new THREE.BoxGeometry(1, 1, 1);
 const material = new THREE.MeshStandardMaterial({
   map: texture,
