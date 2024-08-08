@@ -1,4 +1,4 @@
-# Three.js Interactive 3D Cube with Shadow and Transparent Background
+# Three.js Interactive 3D Cube
 
 ## Overview
 
