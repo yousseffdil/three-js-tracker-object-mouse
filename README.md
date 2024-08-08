@@ -63,5 +63,3 @@ To get started with this project, follow these steps:
 For questions or feedback, please reach out to [fdilyoussef@gmail.com](mailto:fdilyoussef@gmail.com).
 
 ---
-
-Feel free to modify this README to better fit your project's needs!
